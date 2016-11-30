@@ -5,7 +5,7 @@
 
 makeCacheMatrix <- function(x = matrix()) {
         #Matrix Property
-        matRix = NULL
+        invMat = NULL
         #Setting the Matrix(method)
         set <- function(y){
         ##<<- operator which can be used to assign a value to an object in an environment
